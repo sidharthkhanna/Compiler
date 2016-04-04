@@ -1,0 +1,6 @@
+c:\users\kunal\documents\visual studio 2015\Projects\GetReady\ConsoleApplication1\obj\Debug\GetReady.csprojResolveAssemblyReference.cache
+c:\users\kunal\documents\visual studio 2015\Projects\GetReady\ConsoleApplication1\bin\Debug\GetReady.exe.config
+c:\users\kunal\documents\visual studio 2015\Projects\GetReady\ConsoleApplication1\bin\Debug\GetReady.exe
+c:\users\kunal\documents\visual studio 2015\Projects\GetReady\ConsoleApplication1\bin\Debug\GetReady.pdb
+c:\users\kunal\documents\visual studio 2015\Projects\GetReady\ConsoleApplication1\obj\Debug\GetReady.exe
+c:\users\kunal\documents\visual studio 2015\Projects\GetReady\ConsoleApplication1\obj\Debug\GetReady.pdb
